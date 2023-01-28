@@ -1,3 +1,4 @@
+![Header](https://github.com/Marinatsw/marinatsw/blob/main/assets/cypress.io.png)
 Hi! I'm a QA Engineer
 
 Here's my CV 
