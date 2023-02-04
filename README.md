@@ -13,7 +13,7 @@ Checklist: [google sheets](https://docs.google.com/spreadsheets/d/1aFpF11iwsbRo_
 
 Bug reports: [google doc](https://docs.google.com/document/d/1dHgqeP3cFw5VT0lqTp3m03A9iKQru_UjAXVP_Svsp2A/edit)
 
-Functional description: []
+Functional description: [google doc](https://docs.google.com/document/d/1bFnaFFYiYGeH4c839V-LNG_3Ip6Q3FNOGSa-c8AA13M/edit)
 
 ## And here's the tools I'm using:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
