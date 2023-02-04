@@ -8,7 +8,7 @@ Web, Mobile, Desktop, API, DB testing
 
 ## Here's my test documentation:
 Test cases: [google sheets](https://docs.google.com/spreadsheets/d/19O8Az8Sy8n8MI3RqENA1Cs4XbMbY_lMdbshnF2huee0/edit)
-            [IEEE-829 Test Plan](https://docs.google.com/document/d/1LgpK9Zfn_2rKw_oBnira27SyhvD7366p8651iQ-CyB0/edit#heading=h.39dklnz49h09)
+Test Plan:  [IEEE-829 Test Plan](https://docs.google.com/document/d/1LgpK9Zfn_2rKw_oBnira27SyhvD7366p8651iQ-CyB0/edit#heading=h.39dklnz49h09)
 
 Checklist: [google sheets](https://docs.google.com/spreadsheets/d/1aFpF11iwsbRo_ExRxb4mf0oR_JDzCVrkzx9iADch9Tw/edit#gid=0)
 
