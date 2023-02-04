@@ -3,16 +3,17 @@
 
 ## Hi! I'm a QA Engineer
 
-Here's my CV:
+I can perform:
+Web, Mobile, Desktop, API, DB testing
 
-## Here's my test documentation
-Test cases: 
+## Here's my test documentation:
+Test cases: [gooogle sheets](https://docs.google.com/spreadsheets/d/19O8Az8Sy8n8MI3RqENA1Cs4XbMbY_lMdbshnF2huee0/edit)
 
-Test suits:
+Checklist: [google sheets](https://docs.google.com/spreadsheets/d/1aFpF11iwsbRo_ExRxb4mf0oR_JDzCVrkzx9iADch9Tw/edit#gid=0)
 
-Bug reports: 
+Bug reports: [google doc](https://docs.google.com/document/d/1dHgqeP3cFw5VT0lqTp3m03A9iKQru_UjAXVP_Svsp2A/edit)
 
-Functional description:
+Functional description: []
 
 ## And here's the tools I'm using:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
@@ -30,3 +31,4 @@ Functional description:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
